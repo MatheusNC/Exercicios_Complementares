@@ -1,0 +1,24 @@
+exercicios/Bola.java
+ exercicios.Bola
+exercicios/Macaco.java
+ exercicios.Macaco
+exercicios/Quadrado.java
+ exercicios.Quadrado
+exercicios/BichinhoVirtual.java
+ exercicios.BichinhoVirtual
+exercicios/Pessoa.java
+ exercicios.Pessoa
+exercicios/TV.java
+ exercicios.TV
+exercicios/ContaCorrente.java
+ exercicios.ContaCorrente
+exercicios/ProgramaRetangulo.java
+ exercicios.ProgramaRetangulo
+exercicios/Retangulo.java
+ exercicios.Retangulo
+exercicios/Ponto.java
+ exercicios.Ponto
+exercicios/BombaCombustivel.java
+ exercicios.BombaCombustivel
+exercicios/Carro.java
+ exercicios.Carro
